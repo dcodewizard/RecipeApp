@@ -1,0 +1,15 @@
+.amount-field {
+  width: 4rem;
+  font-family: monospace;
+}
+
+.heading {
+  font-family: fantasy;
+  font-weight: 700;
+}
+
+.add-button {
+  float: right;
+  min-width: 100px;
+  height: fit-content;
+}

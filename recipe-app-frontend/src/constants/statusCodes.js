@@ -1,0 +1,5 @@
+const NOT_FOUND = 400;
+const SUCCESSFUL = 200;
+const CREATED = 201;
+
+export { NOT_FOUND, SUCCESSFUL, CREATED };

@@ -1,0 +1,66 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.icon {
+  margin-left: 20px;
+}
+
+.flex-container {
+  display: flex;
+  text-align: center;
+}
+
+.recipe-flex-container {
+  flex-wrap: wrap;
+}
+
+.flex-item {
+  padding: 15px;
+  flex: 1;
+}
+
+.recipe-input {
+  height: 35px;
+  width: 200px;
+  font-family: fantasy;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.card-size {
+  height: 70vh;
+}
+
+.input-row {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.input-field-col {
+  justify-content: space-between;
+}
+
+.name-field {
+  font-family: monospace;
+}
+
+.top-heading {
+  margin-bottom: 20px;
+}
+
+.name-position {
+  text-align: start;
+}
+
+.remove-icon {
+  cursor: pointer;
+}
+
+.amount-heading {
+  margin-left: 40px;
+  font-family: fantasy;
+  font-weight: 700;
+}
